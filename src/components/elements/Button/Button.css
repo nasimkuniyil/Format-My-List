@@ -1,0 +1,29 @@
+
+.my-btn{
+    width: 30%;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-size: 15px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    margin: 10px 0;
+}
+
+.my-btn:hover{
+    transform: scale(0.975);
+}
+
+.light{
+    background-color: rgb(215, 215, 215);
+}
+
+.blue{
+    background-color: #0096FF;
+    color: white;
+}
+.my-btn:disabled{
+    transform: none;
+    opacity: 0.5;
+}

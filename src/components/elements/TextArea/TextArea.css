@@ -1,0 +1,10 @@
+.text-area{
+    width: calc(100vw - 100px);
+    max-width: 450px;
+    height: 300px;
+    outline: none;
+    resize: none;
+    border-radius: 8px;
+    padding: 10px;
+    border: 1px solid #afafaf99;
+}

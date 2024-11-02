@@ -1,0 +1,17 @@
+footer{
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 5px;
+    text-align: center;
+    color: #9f9f9f;
+    font-size: 13px;
+}
+
+footer span{
+    font-family: monospace;
+}
+
+footer a{
+    text-decoration: none;
+    color: inherit;
+}
